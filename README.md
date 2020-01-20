@@ -1,2 +1,2 @@
-#my test site
+#mytestsite
 This is my test site
